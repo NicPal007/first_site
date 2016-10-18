@@ -1,0 +1,38 @@
+
+header{
+	text-align: center;
+	background: url(http://twitrheaders.com/wp-content/uploads/2014/07/TwitrHeaders.com-white-dandelions-twitter-header.jpg);
+	background-size: cover;
+	font-family: 'Exo', sans-serif;
+	color: white;
+}
+ul{
+	padding: 10px;
+}
+
+body{
+	background: #afeeee;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+.clouds {
+	background: url("http://www.nemspa.org/images/bg_clouds_1.jpg");
+}
+p {
+	text-align: justify;
+	padding: 10px;
+	line-height: 28px;
+}
+div {
+	position: relative;
+}
+.article{
+	background: rgba(0, 0, 0, 1);
+}
+.article p {
+	color: white;
+}
